@@ -7,4 +7,4 @@ const multiply = var1 * var2;
 
 const random = Math.random();
 
-const mod = var % 7;
+const mod = var2 % 7;
