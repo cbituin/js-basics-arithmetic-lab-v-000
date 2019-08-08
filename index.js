@@ -6,3 +6,5 @@ let var1 = 2,
 const multiply = var1 * var2;
 
 const random = Math.random();
+
+const mod = var % 7;
